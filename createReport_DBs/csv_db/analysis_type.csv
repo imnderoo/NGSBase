@@ -1,3 +1,2 @@
 manifest_name,analysis_type,genelist,exoncoords,bed
-test_manifest.txt,test,/media/sf_resources/createReport_DBs/analysis_type/test/test.genelist,/media/sf_resources/createReport_DBs/analysis_type/test/test.exoncoords,/media/sf_resources/createReport_DBs/analysis_type/test/test.bed
-acmg59.txt,ACMG59,/media/sf_resources/createReport_DBs/analysis_type/acmg59/acmg59.genelist,,/media/sf_resources/createReport_DBs/analysis_type/acmg59/acmg59.bed
+acmg59.txt,ACMG59,/media/sf_resources/createReport_DBs/analysis_type/acmg59/acmg59.genelist,na,/media/sf_resources/createReport_DBs/analysis_type/acmg59/acmg59.bed
