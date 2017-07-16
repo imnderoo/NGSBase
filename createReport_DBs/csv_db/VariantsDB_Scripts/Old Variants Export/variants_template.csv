@@ -1,0 +1,2 @@
+chr,start_pos,ref,alt,gene,transcript,cdna_change,aa_change,cdna_type,aa_type,mutation_type,acmg,omit,omit_comment,date_last_updated,user_updated
+17,38497035,A,G,BRCA1,NM_007294,c.4039A>G,p.Arg1347Gly,Substitution,Missense,Benign,5,N,-,2012/02/13,AW

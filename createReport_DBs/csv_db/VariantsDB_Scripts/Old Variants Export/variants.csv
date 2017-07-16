@@ -1,0 +1,515 @@
+chr,start_pos,ref,alt,gene,transcript,cdna_change,aa_change,cdna_type,aa_type,mutation_type,acmg,omit,omit_comment,date_last_updated,user_updated
+13,32890583,A,C,BRCA2,NM_000059,c.-15A>C,-,Substitution,Intronic,VUS,3,N,-,9/10/2014,AW
+13,32890587,C,T,BRCA2,NM_000059,c.-11C>T,r.?,Substitution,Intronic,Predicted Benign,4,N,-,1/10/2013,AW
+13,32890598,A,G,BRCA2,NM_000059,c.1A>G,p.Met1?,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32890604,A,G,BRCA2,NM_000059,c.7A>G,p.Ile3Val,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32893225,A,G,BRCA2,NM_000059,c.79A>G,p.Ile27Val,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32893271,A,G,BRCA2,NM_000059,c.125A>G,p.Tyr42Cys,Substitution,Missense,Benign,5,N,-,8/30/2012,AW
+13,32893300,C,T,BRCA2,NM_000059,c.154C>T,p.Leu52Phe,Substitution,Missense,VUS,3,N,-,4/6/2012,AW
+13,32893344,A,G,BRCA2,NM_000059,c.198A>G,p.Gln66Gln,Substitution,Silent,Benign,5,N,-,9/4/2012,AW
+13,32893369,G,C,BRCA2,NM_000059,c.223G>C,p.Ala75Pro,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32893377,T,G,BRCA2,NM_000059,c.231T>G,p.Thr77Thr,Substitution,Silent,Benign,5,N,-,4/19/2012,AW
+13,32893387,T,G,BRCA2,NM_000059,c.241T>G,p.Phe81Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32893413,G,A,BRCA2,NM_000059,c.267G>A,p.=,Substitution,Silent,Benign,5,N,-,7/3/2012,AW
+13,32893420,C,T,BRCA2,NM_000059,c.274C>T,p.Gln92X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32893426,C,T,BRCA2,NM_000059,c.280C>T,p.Pro94Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32893458,C,A,BRCA2,NM_000059,c.312C>A,p.Ser104Arg,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32900236,A,G,BRCA2,NM_000059,c.426-2A>G,r.spl(?),Substitution,Intronic,Pathogenic,1,N,-,5/13/2013,AW
+13,32900252,A,G,BRCA2,NM_000059,c.440A>G,p.Gln147Arg,Substitution,Missense,Benign,5,N,-,4/4/2013,AW
+13,32900634,A,G,BRCA2,NM_000059,c.517-2A>G,p.?,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+13,32900655,A,G,BRCA2,NM_000059,c.536A>G,p.Tyr179Cys,Substitution,Missense,Benign,5,N,-,5/22/2013,AW
+13,32900676,C,A,BRCA2,NM_000059,c.557C>A,p.Ser186Tyr,Substitution,Missense,Benign,5,N,-,8/15/2012,AW
+13,32900690,G,A,BRCA2,NM_000059,c.571G>A,p.Val191Ile,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32900739,C,T,BRCA2,NM_000059,c.620C>T,p.Thr207Ile,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32900750,G,A,BRCA2,NM_000059,c.631G>A,p.Val211Ile,Substitution,Missense,Pathogenic,1,N,-,3/13/2013,AW
+13,32905065,A,G,BRCA2,NM_000059,c.691A>G,p.Ser231Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32905110,T,G,BRCA2,NM_000059,c.736T>G,p.Leu246Val,Substitution,Missense,Benign,5,N,-,4/25/2012,AW
+13,32905168,G,A,BRCA2,NM_000059,c.793+1G>A,p.?,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+13,32906426,G,A,BRCA2,NM_000059,c.811G>A,p.Val271Met,Substitution,Missense,Predicted Benign,4,N,-,3/8/2013,AW
+13,32906480,A,C,BRCA2,NM_000059,c.865A>C,p.Asn289His,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+13,32906558,T,A,BRCA2,NM_000059,c.943T>A,p.Cys315Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32906571,A,G,BRCA2,NM_000059,c.956A>G,p.Asn319Ser,Substitution,Missense,VUS,3,N,-,1/8/2013,AW
+13,32906593,C,A,BRCA2,NM_000059,c.978C>A,p.Ser326Arg,Substitution,Missense,Benign,5,N,-,7/5/2012,AW
+13,32906600,A,T,BRCA2,NM_000059,c.985A>T,p.Asn329Tyr,Addition,Missense,VUS,3,N,-,8/21/2014,AW
+13,32906655,A,G,BRCA2,NM_000059,c.1040A>G,p.Gln347Arg,-,-,VUS,3,N,-,8/21/2014,AW
+13,32906729,A,C,BRCA2,NM_000059,c.1114A>C,p.His372Asn,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+13,32906766,C,T,BRCA2,NM_000059,c.1151C>T,p.Ser384Phe,Substitution,Missense,Benign,5,N,-,1/4/2013,AW
+13,32906890,A,G,BRCA2,NM_000059,c.1275A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32906955,C,T,BRCA2,NM_000059,c.1340C>T,p.Pro447Leu,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32906977,A,G,BRCA2,NM_000059,c.1362A>G,p.=,Substitution,Silent,Benign,5,N,-,12/28/2012,AW
+13,32906980,A,G,BRCA2,NM_000059,c.1365A>G,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+13,32907000,A,G,BRCA2,NM_000059,c.1385A>G,p.Glu462Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32907010,A,C,BRCA2,NM_000059,c.1395A>C,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32907033,A,G,BRCA2,NM_000059,c.1418A>G,p.Asn473Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32907074,G,T,BRCA2,NM_000059,c.1459G>T,p.Ala487Ser,Substitution,Missense,Predicted Benign,4,N,-,1/24/2013,AW
+13,32907075,C,A,BRCA2,NM_000059,c.1460C>A,p.Ala487Glu,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32907093,C,T,BRCA2,NM_000059,c.1478C>T,p.Pro493Leu,Substitution,Missense,Predicted Benign,4,N,-,10/1/2012,AW
+13,32907128,A,G,BRCA2,NM_000059,c.1513A>G,p.Ile505Val,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32907129,T,C,BRCA2,NM_000059,c.1514T>C,p.Ile505Thr,Substitution,Missense,Benign,5,N,-,6/12/2012,AW
+13,32907165,A,G,BRCA2,NM_000059,c.1550A>G,p.Asn517Ser,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32907179,G,C,BRCA2,NM_000059,c.1564G>C,p.Gly522Arg,Substitution,Missense,VUS,3,N,-,6/5/2013,AW
+13,32907183,A,G,BRCA2,NM_000059,c.1568A>G,p.His523Arg,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32907208,A,G,BRCA2,NM_000059,c.1593A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32907242,C,A,BRCA2,NM_000059,c.1627C>A,p.His543Asn,Substitution,Missense,Predicted Benign,4,N,-,4/5/2012,AW
+13,32907277,T,G,BRCA2,NM_000059,c.1662T>G,p.Cys554Trp,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32907285,T,G,BRCA2,NM_000059,c.1670T>G,p.Leu557X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32907359,A,C,BRCA2,NM_000059,c.1744A>C,p.Thr582Pro,Substitution,Missense,Predicted Benign,4,N,-,8/2/2012,AW
+13,32907364,G,A,BRCA2,NM_000059,c.1749G>A,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32907401,G,C,BRCA2,NM_000059,c.1786G>C,p.Asp596His,Substitution,Missense,Benign,5,N,-,8/21/2014,AW
+13,32907403,T,C,BRCA2,NM_000059,c.1788T>C,p.=,Substitution,Silent,Benign,5,N,-,3/6/2012,AW
+13,32907407,A,G,BRCA2,NM_000059,c.1792A>G,p.Thr598Ala,Substitution,Missense,Benign,5,N,-,6/6/2012,AW
+13,32907425,A,G,BRCA2,NM_000059,c.1810A>G,p.Lys604Glu,Substitution,Missense,VUS,3,N,-,1/11/2013,AW
+13,32907480,C,T,BRCA2,NM_000059,c.1865C>T,p.Ala622Val,Substitution,Missense,VUS,3,N,-,5/21/2012,AW
+13,32907504,C,T,BRCA2,NM_000059,c.1889C>T,p.Thr630Ile,Substitution,Missense,Benign,5,N,-,6/25/2013,AW
+13,32910403,T,C,BRCA2,NM_000059,c.1911T>C,p.Thr637Thr,Substitution,Silent,Benign,5,N,-,3/30/2012,AW
+13,32910430,C,T,BRCA2,NM_000059,c.1938C>T,p.=,Substitution,Silent,Benign,5,N,-,6/21/2012,AW
+13,32910456,C,G,BRCA2,NM_000059,c.1964C>G,p.Pro655Arg,Substitution,Missense,Benign,5,N,-,1/28/2013,AW
+13,32910496,G,A,BRCA2,NM_000059,c.2004G>A,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32910678,T,C,BRCA2,NM_000059,c.2186T>C,p.Ile729Thr,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32910721,T,C,BRCA2,NM_000059,c.2229T>C,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+13,32910725,A,G,BRCA2,NM_000059,c.2233A>G,p.Lys745Glu,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32910732,A,G,BRCA2,NM_000059,c.2240A>G,p.Glu747Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32910803,T,C,BRCA2,NM_000059,c.2311T>C,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+13,32910822,A,G,BRCA2,NM_000059,c.2330A>G,p.Asp777Gly,Substitution,Missense,Predicted Benign,4,N,-,6/5/2013,AW
+13,32910844,G,A,BRCA2,NM_000059,c.2352G>A,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32910883,G,A,BRCA2,NM_000059,c.2391G>A,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32910920,A,T,BRCA2,NM_000059,c.2428A>T,p.Asn810Tyr,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32910953,G,C,BRCA2,NM_000059,c.2461G>C,p.Val821Leu,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32911030,A,C,BRCA2,NM_000059,c.2538A>C,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32911085,G,T,BRCA2,NM_000059,c.2593G>T,p.Glu865X,Substitution,Nonsense,Predicted Pathogenic,2,N,-,8/21/2014,AW
+13,32911104,C,T,BRCA2,NM_000059,c.2612C>T,p.Pro871Leu,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+13,32911204,A,G,BRCA2,NM_000059,c.2712A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32911208,A,G,BRCA2,NM_000059,c.2716A>G,p.Thr906Ala,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32911214,G,T,BRCA2,NM_000059,c.2722G>T,p.Glu908X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32911225,A,G,BRCA2,NM_000059,c.2733A>G,p.Gly911Gly,Substitution,Silent,Benign,5,N,-,9/6/2012,AW
+13,32911243,A,G,BRCA2,NM_000059,c.2751A>G,p.Val917Val,Substitution,Silent,Benign,5,N,-,4/30/2013,AW
+13,32911244,A,G,BRCA2,NM_000059,c.2752A>G,p.Asn918Asp,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32911257,T,G,BRCA2,NM_000059,c.2765T>G,p.Phe922Cys,Substitution,Missense,VUS,3,N,-,5/2/2012,AW
+13,32911278,T,C,BRCA2,NM_000059,c.2786T>C,p.Leu929Ser,Substitution,Missense,Benign,5,N,-,6/24/2013,AW
+13,32911295,G,A,BRCA2,NM_000059,c.2803G>A,p.Asp935Asn,Substitution,Missense,Benign,5,N,-,8/21/2014,AW
+13,32911375,G,A,BRCA2,NM_000059,c.2883G>A,p.=,Substitution,Silent,Benign,5,N,-,5/2/2012,AW
+13,32911400,G,A,BRCA2,NM_000059,c.2908G>A,p.Asp970Asn,Substitution,Missense,VUS,3,N,-,8/2/2012,AW
+13,32911426,T,G,BRCA2,NM_000059,c.2934T>G,p.Tyr978X,Substitution,Nonsense,Pathogenic,1,N,-,6/24/2013,AW
+13,32911436,A,C,BRCA2,NM_000059,c.2944A>C,p.Ile982Leu,Substitution,Missense,VUS,3,N,-,2/4/2013,AW
+13,32911452,A,T,BRCA2,NM_000059,c.2960A>T,p.Asn987Ile,Substitution,Missense,Predicted Benign,4,N,-,12/5/2012,AW
+13,32911463,A,G,BRCA2,NM_000059,c.2971A>G,p.Asn991Asp,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+13,32911497,A,C,BRCA2,NM_000059,c.3005A>C,p.Asn1002Thr,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32911565,A,G,BRCA2,NM_000059,c.3073A>G,p.Lys1025Glu,Substitution,Missense,VUS,3,N,-,7/10/2012,AW
+13,32911605,A,C,BRCA2,NM_000059,c.3113A>C,p.Glu1038Ala,Substitution,Missense,Predicted Benign,4,N,-,6/29/2012,AW
+13,32911605,A,G,BRCA2,NM_000059,c.3113A>G,p.Glu1038Gly,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+13,32911756,T,C,BRCA2,NM_000059,c.3264T>C,p.Pro1088Pro,Substitution,Silent,Benign,5,N,-,11/5/2012,AW
+13,32911810,C,G,BRCA2,NM_000059,c.3318C>G,p.Ser1106Arg,Substitution,Missense,VUS,3,N,-,4/16/2013,AW
+13,32911819,A,C,BRCA2,NM_000059,c.3327A>C,p.Lys1109Asn,Substitution,Missense,VUS,3,N,-,2/3/2012,AW
+13,32911820,G,T,BRCA2,NM_000059,c.3328G>T,p.Glu1110X,Substitution,Nonsense,Predicted Pathogenic,2,N,-,8/21/2014,AW
+13,32911888,A,G,BRCA2,NM_000059,c.3396A>G,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+13,32911909,G,A,BRCA2,NM_000059,c.3417G>A,p.=,Substitution,Silent,Predicted Benign,4,N,-,4/30/2013,AW
+13,32911910,A,G,BRCA2,NM_000059,c.3418A>G,p.Ser1140Gly,Substitution,Missense,Benign,5,N,-,6/6/2013,AW
+13,32912007,C,T,BRCA2,NM_000059,c.3515C>T,p.Ser1172Leu,Substitution,Missense,Benign,5,N,-,6/11/2012,AW
+13,32912008,G,A,BRCA2,NM_000059,c.3516G>A,p.=,Substitution,Silent,Benign,5,N,-,3/30/2012,AW
+13,32912040,A,G,BRCA2,NM_000059,c.3548A>G,p.Lys1183Arg,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+13,32912073,G,A,BRCA2,NM_000059,c.3581G>A,p.Gly1194Asp,Substitution,Missense,Benign,5,N,-,9/5/2012,AW
+13,32912132,G,A,BRCA2,NM_000059,c.3640G>A,p.Glu1214Lys,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32912153,T,C,BRCA2,NM_000059,c.3661T>C,p.Ser1221Pro,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32912240,G,T,BRCA2,NM_000059,c.3748G>T,p.Glu1250X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32912299,T,C,BRCA2,NM_000059,c.3807T>C,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+13,32912361,G,A,BRCA2,NM_000059,c.3869G>A,p.Cys1290Tyr,Substitution,Missense,Benign,5,N,-,4/12/2012,AW
+13,32912538,T,C,BRCA2,NM_000059,c.4046T>C,p.Ile1349Thr,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32912560,G,A,BRCA2,NM_000059,c.4068G>A,p.=,Substitution,Silent,Benign,5,N,-,2/22/2012,AW
+13,32912563,A,C,BRCA2,NM_000059,c.4071A>C,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32912571,A,T,BRCA2,NM_000059,c.4079A>T,p.Asp1360Val,Substitution,Missense,VUS,3,N,-,3/5/2012,AW
+13,32912575,G,A,BRCA2,NM_000059,c.4083G>A,p.Met1361Ile,Substitution,Missense,VUS,3,N,-,4/6/2012,AW
+13,32912582,A,C,BRCA2,NM_000059,c.4090A>C,p.Ile1364Leu,Substitution,Missense,Benign,5,N,-,1/10/2013,AW
+13,32912586,G,A,BRCA2,NM_000059,c.4094G>A,p.Cys1365Tyr,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32912675,G,T,BRCA2,NM_000059,c.4183G>T,p.Ala1395Ser,Substitution,Missense,VUS,3,N,-,3/30/2012,AW
+13,32912679,A,G,BRCA2,NM_000059,c.4187A>G,p.Gln1396Arg,Substitution,Missense,Predicted Benign,4,N,-,2/23/2012,AW
+13,32912733,C,T,BRCA2,NM_000059,c.4241C>T,p.Thr1414Met,Substitution,Missense,Benign,5,N,-,8/21/2014,AW
+13,32912750,G,T,BRCA2,NM_000059,c.4258G>T,p.Asp1420Tyr,Substitution,Missense,Benign,5,N,-,3/30/2012,AW
+13,32912800,T,C,BRCA2,NM_000059,c.4308T>C,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+13,32912806,C,G,BRCA2,NM_000059,c.4314C>G,p.=,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+13,32912806,C,T,BRCA2,NM_000059,c.4314C>T,p.(=),Substitution,Silent,Benign,5,N,-,2/3/2012,AW
+13,32912864,C,T,BRCA2,NM_000059,c.4372C>T,p.Gln1458X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32913027,G,A,BRCA2,NM_000059,c.4535G>A,p.Arg1512His,Substitution,Missense,VUS,3,N,-,6/25/2012,AW
+13,32913027,G,T,BRCA2,NM_000059,c.4535G>T,p.Ser1512Ile,Substitution,Missense,Benign,5,N,-,11/7/2012,AW
+13,32913055,A,G,BRCA2,NM_000059,c.4563A>G,p.Leu1521Leu,Substitution,Silent,Benign,5,N,-,4/16/2012,AW
+13,32913070,A,G,BRCA2,NM_000059,c.4578A>G,p.=,Substitution,Silent,Benign,5,N,-,10/1/2012,AW
+13,32913077,G,A,BRCA2,NM_000059,c.4585G>A,p.Gly1529Arg,Substitution,Missense,Benign,5,N,-,8/21/2014,AW
+13,32913106,T,C,BRCA2,NM_000059,c.4614T>C,p.Ser1538Ser,Substitution,Silent,Benign,5,N,-,11/6/2012,AW
+13,32913148,T,C,BRCA2,NM_000059,c.4656T>C,p.Gly1552Gly,Substitution,Silent,Benign,5,N,-,4/18/2012,AW
+13,32913162,C,G,BRCA2,NM_000059,c.4670C>G,p.Thr1557Ser,Substitution,Missense,VUS,3,N,-,12/6/2012,AW
+13,32913178,A,G,BRCA2,NM_000059,c.4686A>G,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32913226,A,G,BRCA2,NM_000059,c.4734A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32913249,C,T,BRCA2,NM_000059,c.4757C>T,p.Thr1586Ile,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32913271,A,C,BRCA2,NM_000059,c.4779A>C,p.Clu1593Asp,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32913288,A,G,BRCA2,NM_000059,c.4796A>G,p.Asn1599Ser,Substitution,Missense,VUS,3,N,-,10/22/2012,AW
+13,32913320,G,A,BRCA2,NM_000059,c.4828G>A,p.Val1610Met,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32913374,A,G,BRCA2,NM_000059,c.4882A>G,p.Met1628Val,Substitution,Missense,Predicted Benign,4,N,-,1/15/2013,AW
+13,32913457,C,G,BRCA2,NM_000059,c.4965C>G,p.Tyr1655X,Substitution,Nonsense,Pathogenic,1,N,-,12/12/2012,AW
+13,32913560,A,C,BRCA2,NM_000059,c.5068A>C,p.Lys1690Gln,Substitution,Missense,VUS,3,N,-,8/8/2012,AW
+13,32913562,A,C,BRCA2,NM_000059,c.5070A>C,p.Lys1690Asn,Substitution,Missense,Benign,5,N,-,1/31/2013,AW
+13,32913587,G,A,BRCA2,NM_000059,c.5095G>A,p.Asp1699Asn,Substitution,Missense,Predicted Benign,4,N,-,11/7/2012,AW
+13,32913612,C,T,BRCA2,NM_000059,c.5120C>T,p.Thr1707Ile,Substitution,Missense,VUS,3,N,-,4/30/2012,AW
+13,32913615,C,A,BRCA2,NM_000059,c.5123C>A,p.Ala1708Glu,Substitution,Missense,Pathogenic,1,N,-,9/11/2012,AW
+13,32913662,A,G,BRCA2,NM_000059,c.5170A>G,p.Ile1724Val,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32913663,T,C,BRCA2,NM_000059,c.5171T>C,p.Ile1724Thr,Substitution,Missense,Predicted Benign,4,N,-,3/15/2012,AW
+13,32913690,C,T,BRCA2,NM_000059,c.5198C>T,p.Ser1733Phe,Substitution,Missense,Benign,5,N,-,2/1/2013,AW
+13,32913691,C,T,BRCA2,NM_000059,c.5199C>T,p.=,Substitution,Silent,Benign,5,N,-,5/4/2012,AW
+13,32913708,A,G,BRCA2,NM_000059,c.5216A>G,p.Asp1739Gly,Substitution,Missense,VUS,3,N,-,11/16/2012,AW
+13,32913717,A,G,BRCA2,NM_000059,c.5225A>G,p.Asn1742Ser,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32913735,G,A,BRCA2,NM_000059,c.5243G>A,p.Gly1748Asp,-,-,VUS,3,N,-,8/21/2014,AW
+13,32913753,A,G,BRCA2,NM_000059,c.5261A>G,p.Asp1754Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32913760,A,G,BRCA2,NM_000059,c.5268A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32913770,T,G,BRCA2,NM_000059,c.5278T>G,p.Ser1760Ala,Substitution,Missense,VUS,3,N,-,2/1/2013,AW
+13,32913804,G,A,BRCA2,NM_000059,c.5312G>A,p.Gly1771Asp,Substitution,Missense,Benign,5,N,-,8/21/2014,AW
+13,32913816,T,G,BRCA2,NM_000059,c.5324T>G,p.Met1775Arg,Substitution,Missense,Pathogenic,1,N,-,5/29/2013,AW
+13,32913825,A,G,BRCA2,NM_000059,c.5333A>G,p.Asp1778Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32913839,A,C,BRCA2,NM_000059,c.5347A>C,p.Met1783Leu,Substitution,Missense,VUS,3,N,-,4/30/2013,AW
+13,32913882,C,G,BRCA2,NM_000059,c.5390C>G,p.Ala1797Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32913903,T,A,BRCA2,NM_000059,c.5411T>A,p.Val1804Asp,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32913910,A,G,BRCA2,NM_000059,c.5418A>G,p.Glu1806Glu,Substitution,Silent,Benign,5,N,-,11/5/2012,AW
+13,32913941,T,C,BRCA2,NM_000059,c.5449T>C,p.Ser1817Pro,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32913947,C,T,BRCA2,NM_000059,c.5455C>T,p.Pro1819Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32913957,A,T,BRCA2,NM_000059,c.5465A>T,p.Asn1822Ile,Substitution,Missense,VUS,3,N,-,11/7/2012,AW
+13,32914049,T,A,BRCA2,NM_000059,c.5557T>A,p.Tyr1853Asn,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32914104,G,A,BRCA2,NM_000059,c.5612G>A,p.Ser1871Asn,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914123,C,T,BRCA2,NM_000059,c.5631C>T,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32914132,T,G,BRCA2,NM_000059,c.5640T>G,p.Asn1880Lys,Substitution,Missense,Benign,5,N,-,8/17/2012,AW
+13,32914144,T,C,BRCA2,NM_000059,c.5652T>C,p.Ile1884Ile,Substitution,Silent,Predicted Benign,4,N,-,4/19/2012,AW
+13,32914155,A,G,BRCA2,NM_000059,c.5663A>G,p.Lys1888Arg,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914174,C,G,BRCA2,NM_000059,c.5682C>G,p.Tyr1894X,Substitution,Nonsense,Pathogenic,1,N,-,8/13/2012,AW
+13,32914196,G,A,BRCA2,NM_000059,c.5704G>A,p.Asp1902Asn,Substitution,Missense,Benign,5,N,-,8/21/2014,AW
+13,32914221,A,T,BRCA2,NM_000059,c.5729A>T,p.Asn1910Ile,Substitution,Missense,VUS,3,N,-,3/20/2012,AW
+13,32914236,C,T,BRCA2,NM_000059,c.5744C>T,p.Thr1915Met,Substitution,Missense,Benign,5,N,-,3/1/2012,AW
+13,32914240,T,G,BRCA2,NM_000059,c.5748T>G,p.His1916Gln,Substitution,Missense,Predicted Benign,4,N,-,3/14/2013,AW
+13,32914244,C,T,BRCA2,NM_000059,c.5752C>T,p.His1918Tyr,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32914265,C,T,BRCA2,NM_000059,c.5773C>T,p.Gln1925X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32914277,A,G,BRCA2,NM_000059,c.5785A>G,p.Ile1929Val,Substitution,Missense,Benign,5,N,-,9/25/2012,AW
+13,32914328,T,C,BRCA2,NM_000059,c.5836T>C,p.Ser1946Pro,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914349,G,T,BRCA2,NM_000059,c.5857G>T,p.Glu1953X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32914356,C,A,BRCA2,NM_000059,c.5864C>A,p.Ser1955X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32914362,T,C,BRCA2,NM_000059,c.5870T>C,p.Ile1957Thr,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914377,T,C,BRCA2,NM_000059,c.5885T>C,p.Ile1962Thr,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914401,C,A,BRCA2,NM_000059,c.5909C>A,p.Ser1970X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32914416,G,C,BRCA2,NM_000059,c.5924G>C,p.Cys1975Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32914417,T,G,BRCA2,NM_000059,c.5925T>G,p.Cys1975Trp,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32914477,C,T,BRCA2,NM_000059,c.5985C>T,p.Asn1995Asn,Substitution,Silent,Predicted Benign,4,N,-,5/16/2013,AW
+13,32914478,G,T,BRCA2,NM_000059,c.5986G>T,p.Ala1996Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32914529,A,G,BRCA2,NM_000059,c.6037A>G,p.Lys2013Glu,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914575,A,G,BRCA2,NM_000059,c.6083A>G,p.Glu2028Gly,Substitution,Missense,VUS,3,N,-,2/21/2013,AW
+13,32914592,C,T,BRCA2,NM_000059,c.6100C>T,p.Arg2034Cys,Substitution,Missense,Benign,5,N,-,6/27/2012,AW
+13,32914623,G,C,BRCA2,NM_000059,c.6131G>C,p.Gly2044Ala,Substitution,Missense,VUS,3,N,-,1/16/2013,AW
+13,32914683,A,G,BRCA2,NM_000059,c.6191A>G,p.Lys2064Arg,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914701,A,G,BRCA2,NM_000059,c.6209A>G,p.Glu2070Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32914712,C,A,BRCA2,NM_000059,c.6220C>A,p.His2074Asn,Substitution,Missense,Benign,5,N,-,7/27/2012,AW
+13,32914723,G,C,BRCA2,NM_000059,c.6231G>C,p.Lys2077Asn,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32914807,A,G,BRCA2,NM_000059,c.6315A>G,p.Ile2105Met,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914809,T,C,BRCA2,NM_000059,c.6317T>C,p.Leu2106Pro,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914814,C,T,BRCA2,NM_000059,c.6322C>T,p.Arg2108Cys,Substitution,Missense,Benign,5,N,-,5/7/2013,AW
+13,32914815,G,A,BRCA2,NM_000059,c.6323G>A,p.Arg2108His,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914817,G,A,BRCA2,NM_000059,c.6325G>A,p.Val2109Ile,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32914839,A,G,BRCA2,NM_000059,c.6347A>G,p.His2116Arg,Substitution,Missense,Predicted Benign,4,N,-,10/9/2012,AW
+13,32914904,G,T,BRCA2,NM_000059,c.6412G>T,p.Val2138Phe,Substitution,Missense,Benign,5,N,-,6/25/2012,AW
+13,32915022,T,A,BRCA2,NM_000059,c.6530T>A,I2177N,-,-,VUS,3,N,-,8/21/2014,AW
+13,32915091,T,C,BRCA2,NM_000059,c.6599T>C,p.Phe2200Ser,Substitution,Missense,VUS,3,N,-,6/14/2012,AW
+13,32915110,A,G,BRCA2,NM_000059,c.6618A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+13,32915175,T,C,BRCA2,NM_000059,c.6683T>C,p.Val2228Ala,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32915198,G,A,BRCA2,NM_000059,c.6706G>A,p.Glu2236Lys,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32915240,A,G,BRCA2,NM_000059,c.6748A>G,p.Thr2250Ala,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32915253,T,A,BRCA2,NM_000059,c.6761T>A,p.Phe2254Tyr,Substitution,Missense,Predicted Benign,4,N,-,10/1/2012,AW
+13,32915288,A,C,BRCA2,NM_000059,c.6796A>C,-,Substitution,Missense,VUS,3,N,-,12/5/2012,AW
+13,32915295,G,A,BRCA2,NM_000059,c.6803G>A,p.Arg2268Lys,Substitution,Missense,VUS,3,N,-,3/27/2012,AW
+13,32918706,A,G,BRCA2,NM_000059,c.6853A>G,p.Ile2285Val,Substitution,Missense,Predicted Benign,4,N,-,6/20/2013,AW
+13,32918721,T,C,BRCA2,NM_000059,c.6868T>C,p.Leu2290Leu,Substitution,Silent,Predicted Benign,4,N,-,3/6/2012,AW
+13,32918739,A,C,BRCA2,NM_000059,c.6886A>C,p.Ile2296Leu,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32918788,A,T,BRCA2,NM_000059,c.6935A>T,p.Asp2312Val,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32921033,G,A,BRCA2,NM_000059,c.7007G>A,p.Arg2336His,Substitution,Missense,Pathogenic,1,N,-,1/22/2013,AW
+13,32921033,G,C,BRCA2,NM_000059,c.7007G>C,p.Arg2336Pro,Substitution,Missense,Pathogenic,1,N,-,1/8/2013,AW
+13,32928996,A,T,BRCA2,NM_000059,c.7008-2A>T,r.spl?,Substitution,Intronic,Pathogenic,1,N,-,3/14/2013,AW
+13,32929007,G,C,BRCA2,NM_000059,c.7017G>C,p.Lys2339Asn,Substitution,Missense,Benign,5,N,-,11/5/2012,AW
+13,32929042,C,G,BRCA2,NM_000059,c.7052C>G,p.Ala2351Gly,Substitution,Missense,Benign,5,N,-,4/30/2012,AW
+13,32929047,G,C,BRCA2,NM_000059,c.7057G>C,p.Gly2353Arg,Substitution,Missense,VUS,3,N,-,8/7/2012,AW
+13,32929092,T,G,BRCA2,NM_000059,c.7102T>G,p.L2368V,-,-,VUS,3,N,-,8/21/2014,AW
+13,32929140,C,A,BRCA2,NM_000059,c.7150C>A,p.Gln2384Lys,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32929167,A,G,BRCA2,NM_000059,c.7177A>G,p.Met2393Val,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32929232,A,G,BRCA2,NM_000059,c.7242A>G,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+13,32929291,A,C,BRCA2,NM_000059,c.7301A>C,p.Lys2434Thr,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32929309,A,G,BRCA2,NM_000059,c.7319A>G,p.His2440Arg,Substitution,Missense,Benign,5,N,-,11/5/2012,AW
+13,32929421,T,C,BRCA2,NM_000059,c.7431T>C,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32930577,G,A,BRCA2,NM_000059,c.7448G>A,Ser2483Asn,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32930598,T,C,BRCA2,NM_000059,c.7469T>C,p.Ile2490Thr,Substitution,Missense,Benign,5,N,-,7/30/2012,AW
+13,32930609,C,T,BRCA2,NM_000059,c.7480C>T,p.Arg2494X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32930613,T,C,BRCA2,NM_000059,c.7484T>C,p.Ile2495Thr,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32930633,C,T,BRCA2,NM_000059,c.7504C>T,p.Arg2502Cys,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32930638,C,G,BRCA2,NM_000059,c.7509C>G,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32930650,A,G,BRCA2,NM_000059,c.7521A>G,p.=,Substitution,Silent,Predicted Benign,4,N,-,2/18/2013,AW
+13,32930651,G,A,BRCA2,NM_000059,c.7522G>A,p.Gly2508Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32930673,C,T,BRCA2,NM_000059,c.7544C>T,p.Thr2515Ile,Substitution,Missense,Benign,5,N,-,3/6/2013,AW
+13,32930687,C,T,BRCA2,NM_000059,c.7558C>T,p.Arg2520X,Substitution,Nonsense,Pathogenic,1,N,-,3/27/2012,AW
+13,32930747,G,A,BRCA2,NM_000059,c.7617+1G>A,p.?,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+13,32931887,G,A,BRCA2,NM_000059,c.7626G>A,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32931994,G,A,BRCA2,NM_000059,c.7733G>A,p.Gly2578Glu,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32932018,G,A,BRCA2,NM_000059,c.7757G>A,Trp2586X,Substitution,Nonsense,Pathogenic,1,N,-,4/5/2013,AW
+13,32932038,G,T,BRCA2,NM_000059,c.7777G>T,p.Gly2593X,Substitution,Nonsense,Pathogenic,1,N,-,3/22/2013,AW
+13,32936711,G,A,BRCA2,NM_000059,c.7857G>A,p.Trp2619X,Substitution,Nonsense,Pathogenic,1,N,-,11/6/2012,AW
+13,32936722,A,G,BRCA2,NM_000059,c.7868A>G,p.His2623Arg,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32936732,G,A,BRCA2,NM_000059,c.7878G>A,p.Trp2626X,-,-,Pathogenic,1,N,-,8/21/2014,AW
+13,32936733,A,T,BRCA2,NM_000059,c.7879A>T,p.Ile2627Phe,Substitution,Missense,Pathogenic,1,N,-,8/21/2014,AW
+13,32936762,T,A,BRCA2,NM_000059,c.7908T>A,p.Cys2636X,Substitution,Nonsense,Pathogenic,1,N,-,4/6/2012,AW
+13,32937327,A,T,BRCA2,NM_000059,c.7988A>T,p.Glu2663Val,Substitution,Missense,Pathogenic,1,N,-,5/16/2013,AW
+13,32937331,T,A,BRCA2,NM_000059,c.7992T>A,p.Ile2664Ile,Substitution,Silent,VUS,3,N,-,5/29/2012,AW
+13,32937333,A,G,BRCA2,NM_000059,c.7994A>G,p.Asp2665Gly,Substitution,Missense,Predicted Benign,4,N,-,3/11/2012,AW
+13,32937349,G,A,BRCA2,NM_000059,c.8010G>A,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32937431,G,A,BRCA2,NM_000059,c.8092G>A,p.Ala2698Thr,-,-,VUS,3,N,-,8/21/2014,AW
+13,32937488,G,T,BRCA2,NM_000059,c.8149G>T,p.Ala2717Ser,Substitution,Missense,Benign,5,N,-,6/15/2012,AW
+13,32937506,G,C,BRCA2,NM_000059,c.8167G>C,p.Asp2723His,Substitution,Missense,Pathogenic,1,N,-,3/13/2012,AW
+13,32937521,G,A,BRCA2,NM_000059,c.8182G>A,p.Val2728Ile,Substitution,Missense,Benign,5,N,-,1/9/2013,AW
+13,32937526,G,T,BRCA2,NM_000059,c.8187G>T,p.Lys2729Asn,Substitution,Missense,Benign,5,N,-,3/25/2013,AW
+13,32937554,G,A,BRCA2,NM_000059,c.8215G>A,p.Val2739Ile,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32937582,G,A,BRCA2,NM_000059,c.8243G>A,p.Gly2748Asp,Substitution,Missense,Predicted Pathogenic,2,N,-,9/26/2012,AW
+13,32944537,A,G,BRCA2,NM_000059,c.8332-2A>G,r.spl?,Substitution,Intronic,Pathogenic,1,N,-,5/4/2012,AW
+13,32944558,G,A,BRCA2,NM_000059,c.8351G>A,Arg2784Gln,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32944628,G,A,BRCA2,NM_000059,c.8421G>A,p.Ser2807Ser,Substitution,Silent,Predicted Benign,4,N,-,1/11/2013,AW
+13,32944634,C,T,BRCA2,NM_000059,c.8427C>T,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32944667,A,C,BRCA2,NM_000059,c.8460A>C,p.Val2820Val,Substitution,Silent,Benign,5,N,-,5/16/2013,AW
+13,32944669,T,C,BRCA2,NM_000059,c.8462T>C,p.Ile2821Thr,Substitution,Missense,VUS,3,N,-,1/30/2013,AW
+13,32944677,A,T,BRCA2,NM_000059,c.8470A>T,p.Arg2824X,Substitution,Nonsense,Predicted Pathogenic,2,N,-,8/21/2014,AW
+13,32945108,T,C,BRCA2,NM_000059,c.8503T>C,p.Ser2835Pro,Substitution,Missense,Benign,5,N,-,6/20/2013,AW
+13,32945110,A,G,BRCA2,NM_000059,c.8505A>G,p.Ser2835Ser,Substitution,Silent,Predicted Benign,4,N,-,8/9/2012,AW
+13,32945172,A,C,BRCA2,NM_000059,c.8567A>C,p.Glu2856Ala,Substitution,Missense,Benign,5,N,-,3/9/2012,AW
+13,32945177,C,T,BRCA2,NM_000059,c.8572C>T,p.Gln2858X,Substitution,Nonsense,Pathogenic,1,N,-,5/28/2012,AW
+13,32945232,A,C,BRCA2,NM_000059,c.8627A>C,p.His2876Pro,Substitution,Missense,VUS,3,N,-,12/3/2012,AW
+13,32950861,G,A,BRCA2,NM_000059,c.8687G>A,p.Arg2896His,Substitution,Missense,Predicted Benign,4,N,-,4/5/2012,AW
+13,32950876,G,A,BRCA2,NM_000059,c.8702G>A,p.Gly2901Asp,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32953464,G,A,BRCA2,NM_000059,c.8765G>A,p.Ser2922Asn,Substitution,Missense,VUS,3,N,-,11/14/2012,AW
+13,32953529,A,T,BRCA2,NM_000059,c.8830A>T,p.Ile2944Phe,Substitution,Missense,Benign,5,N,-,8/10/2012,AW
+13,32953549,G,T,BRCA2,NM_000059,c.8850G>T,p.Lys2950Asn,Substitution,Missense,Benign,5,N,-,5/9/2012,AW
+13,32953550,G,A,BRCA2,NM_000059,c.8851G>A,p.Ala2951Thr,Substitution,Missense,Benign,5,N,-,5/6/2012,AW
+13,32953604,G,A,BRCA2,NM_000059,c.8905G>A,p.Val2969Met,Substitution,Missense,VUS,3,N,-,4/24/2013,AW
+13,32953937,G,A,BRCA2,NM_000059,c.9004G>A,p.Glu3002Lys,Substitution,Missense,Predicted Pathogenic,2,N,-,11/6/2012,AW
+13,32953971,C,T,BRCA2,NM_000059,c.9038C>T,-,-,-,VUS,3,N,-,8/21/2014,AW
+13,32953986,G,A,BRCA2,NM_000059,c.9053G>A,p.Ser3018Asn,Substitution,Missense,VUS,3,N,-,4/30/2013,AW
+13,32954009,C,T,BRCA2,NM_000059,c.9076C>T,p.Gln3026X,Substitution,Nonsense,Pathogenic,1,N,-,5/13/2013,AW
+13,32954018,G,A,BRCA2,NM_000059,c.9085G>A,p.Ala3029Thr,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32954034,A,G,BRCA2,NM_000059,c.9101A>G,p.Gln3034Arg,Substitution,Missense,VUS,3,N,-,3/9/2012,AW
+13,32954037,A,G,BRCA2,NM_000059,c.9104A>G,p.Tyr3035Cys,Substitution,Missense,VUS,3,N,-,6/26/2013,AW
+13,32954050,G,A,BRCA2,NM_000059,c.9117G>A,p.=,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+13,32954143,G,C,BRCA2,NM_000059,c.9118-1G>C,p.?,Substitution,Intronic,Pathogenic,1,N,-,5/18/2012,AW
+13,32954181,G,A,BRCA2,NM_000059,c.9155G>A,p.Arg3052Gln,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32954279,A,C,BRCA2,NM_000059,c.9253A>C,p.Thr3085Pro,Substitution,Missense,Predicted Benign,4,N,-,6/5/2013,AW
+13,32968861,T,C,BRCA2,NM_000059,c.9292T>C,p.Tyr3098His,Substitution,Missense,Predicted Benign,4,N,-,11/7/2012,AW
+13,32968863,C,G,BRCA2,NM_000059,c.9294C>G,p.Tyr3098X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+13,32968871,T,G,BRCA2,NM_000059,c.9302T>G,p.Leu3101Arg,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32968902,G,A,BRCA2,NM_000059,c.9333G>A,p.Glu3111Glu,Substitution,Silent,Predicted Benign,4,N,-,4/12/2012,AW
+13,32968940,A,T,BRCA2,NM_000059,c.9371A>T,p.Asn3124Ile,Substitution,Missense,VUS,3,N,-,3/20/2013,AW
+13,32968942,C,T,BRCA2,NM_000059,c.9373C>T,p.Leu3125Phe,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+13,32968951,C,T,BRCA2,NM_000059,c.9382C>T,p.Arg3128X,Substitution,Nonsense,Pathogenic,1,N,-,2/9/2012,AW
+13,32968952,G,A,BRCA2,NM_000059,c.9383G>A,p.Arg3128Gln,Substitution,Missense,VUS,3,N,-,7/18/2012,AW
+13,32971080,A,G,BRCA2,NM_000059,c.9547A>G,p.Ile3183Val,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32971097,T,C,BRCA2,NM_000059,c.9564T>C,p.=,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+13,32971139,G,A,BRCA2,NM_000059,c.9606G>A,Pro3202Pro,Substitution,-,Benign,5,N,-,8/3/2012,AW
+13,32972380,G,A,BRCA2,NM_000059,c.9730G>A,-,Substitution,Missense,Benign,5,N,-,11/5/2012,AW
+13,32972599,C,T,BRCA2,NM_000059,c.9949C>T,p.Leu3317Leu,Substitution,Silent,Predicted Benign,4,N,-,2/22/2013,AW
+13,32972626,A,T,BRCA2,NM_000059,c.9976A>T,p.Lys3326X,Substitution,Nonsense,Predicted Benign,4,N,-,2/17/2012,AW
+13,32972760,G,A,BRCA2,NM_000059,c.10110G>A,p.Arg3370Arg,Substitution,Silent,Benign,5,N,-,3/5/2013,AW
+13,32972804,G,A,BRCA2,NM_000059,c.10154G>A,p.Arg3385His,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+13,32972880,C,A,BRCA2,NM_000059,c.10230C>A,p.Asp3410Glu,Substitution,Missense,VUS,3,N,-,6/4/2013,AW
+13,32972884,A,G,BRCA2,NM_000059,c.10234A>G,p.Ile3412Val,Substitution,Missense,Benign,5,N,-,2/23/2012,AW
+13,32973012,A,C,BRCA2,NM_000059,c.*105A>C,p.(=),Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+17,41197730,A,T,BRCA1,NM_007294,c.5557T>A,p.Tyr1853Asn,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41197766,T,G,BRCA1,NM_007294,c.5521A>C,p.Ser1841Arg,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41197784,G,A,BRCA1,NM_007294,c.5503C>T,p.Arg1835X,Substitution,Nonsense,Pathogenic,1,N,-,9/13/2012,AW
+17,41197790,C,T,BRCA1,NM_007294,c.5497G>A,p.Val1833Met,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41199662,T,A,BRCA1,NM_007294,c.5465A>T,p.Asn1822Ile,Substitution,Missense,VUS,3,N,-,11/7/2012,AW
+17,41201154,G,C,BRCA1,NM_007294,c.5390C>G,p.Ala1797Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41201187,A,G,BRCA1,NM_007294,c.5357T>C,p.Leu1786Pro,Substitution,Missense,VUS,3,N,-,3/6/2012,AW
+17,41201197,T,G,BRCA1,NM_007294,c.5347A>C,p.Met1783Leu,Substitution,Missense,VUS,3,N,-,4/30/2013,AW
+17,41201211,T,C,BRCA1,NM_007294,c.5333A>G,p.Asp1778Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41203085,G,T,BRCA1,NM_007294,c.5327C>A,p.Pro1776His,Substitution,Missense,VUS,3,N,-,3/22/2012,AW
+17,41203088,A,C,BRCA1,NM_007294,c.5324T>G,p.Met1775Arg,Substitution,Missense,Pathogenic,1,N,-,5/29/2013,AW
+17,41209068,C,T,BRCA1,NM_007294,c.5277+1G>A,r.?,Substitution,Intronic,Pathogenic,1,N,-,6/12/2013,AW
+17,41209085,T,C,BRCA1,NM_007294,c.5261A>G,p.Asp1754Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41209094,C,T,BRCA1,NM_007294,c.5252G>A,p.Arg1751Gln,Substitution,Missense,VUS,3,N,-,11/19/2012,AW
+17,41209095,G,A,BRCA1,NM_007294,c.5251C>T,p.Arg1751X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2012,AW
+17,41209103,C,T,BRCA1,NM_007294,c.5243G>A,p.Gly1748Asp,-,-,VUS,3,N,-,8/21/2014,AW
+17,41209110,G,A,BRCA1,NM_007294,c.5236C>T,p.His1746Tyr,Substitution,Missense,VUS,3,N,-,7/5/2013,AW
+17,41209121,T,C,BRCA1,NM_007294,c.5225A>G,p.Asn1742Ser,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41209130,T,C,BRCA1,NM_007294,c.5216A>G,p.Asp1739Gly,Substitution,Missense,VUS,3,N,-,11/16/2012,AW
+17,41209154,T,C,BRCA1,NM_007294,c.5194-2A>G,p.?,Substitution,Intronic,Pathogenic,1,N,-,2/17/2013,AW
+17,41215373,T,C,BRCA1,NM_007294,c.5170A>G,p.Ile1724Val,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41215920,G,T,BRCA1,NM_007294,c.5123C>A,p.Ala1708Glu,Substitution,Missense,Pathogenic,1,N,-,9/11/2012,AW
+17,41215926,C,G,BRCA1,NM_007294,c.5117G>C,p.Gly1706Ala,Substitution,Missense,Predicted Benign,4,N,-,9/25/2012,AW
+17,41215943,T,C,BRCA1,NM_007294,c.5100A>G,p.Thr1700Thr,Substitution,Silent,Predicted Benign,4,N,-,3/10/2012,AW
+17,41215953,C,T,BRCA1,NM_007294,c.5090G>A,p.Cys1697Tyr,Substitution,Missense,VUS,3,N,-,5/8/2013,AW
+17,41215968,T,G,BRCA1,NM_007294,c.5075A>C,p.Asp1692Ala,Substitution,Missense,VUS,3,N,-,10/12/2012,AW
+17,41215970,T,G,BRCA1,NM_007294,c.5075-2A>C,p.?,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+17,41219623,A,G,BRCA1,NM_007294,c.5074+2T>C,p.?,Substitution,Silent,Pathogenic,1,N,-,2/28/2013,AW
+17,41219629,T,G,BRCA1,NM_007294,c.5070A>C,p.Lys1690Asn,Substitution,Missense,Benign,5,N,-,1/31/2013,AW
+17,41219631,T,G,BRCA1,NM_007294,c.5068A>C,p.Lys1690Gln,Substitution,Missense,VUS,3,N,-,8/8/2012,AW
+17,41219714,T,C,BRCA1,NM_007294,c.4987-2A>G,p.?,Substitution,Silent,Predicted Pathogenic,2,N,-,8/21/2014,AW
+17,41222975,C,T,BRCA1,NM_007294,c.4956G>A,p.Met1652Ile,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41222997,C,G,BRCA1,NM_007294,c.4934G>C,p.Arg1645Thr,Substitution,Missense,Predicted Benign,4,N,-,11/5/2012,AW
+17,41223048,A,G,BRCA1,NM_007294,c.4883T>C,p.Met1628Thr,Substitution,Missense,Benign,5,N,-,12/20/2012,AW
+17,41223049,T,C,BRCA1,NM_007294,c.4882A>G,p.Met1628Val,Substitution,Missense,Predicted Benign,4,N,-,1/15/2013,AW
+17,41223094,T,C,BRCA1,NM_007294,c.4837A>G,p.Ser1613Gly,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41223115,T,C,BRCA1,NM_007294,c.4816A>G,p.Lys1606Glu,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41223119,T,C,BRCA1,NM_007294,c.4812A>G,p.=,Substitution,Silent,VUS,3,N,-,1/20/2012,AW
+17,41223152,T,G,BRCA1,NM_007294,c.4779A>C,p.Clu1593Asp,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41223242,G,C,BRCA1,NM_007294,c.4689C>G,p.Tyr1563X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41226357,G,A,BRCA1,NM_007294,c.4666C>T,p.Gln1556X,Substitution,Nonsense,Pathogenic,1,N,-,9/4/2012,AW
+17,41226423,C,T,BRCA1,NM_007294,c.4600G>A,p.Val1534Met,Substitution,Missense,Predicted Benign,4,N,-,2/22/2013,AW
+17,41226488,C,A,BRCA1,NM_007294,c.4535G>T,p.Ser1512Ile,Substitution,Missense,Benign,5,N,-,11/7/2012,AW
+17,41226488,C,T,BRCA1,NM_007294,c.4535G>A,p.Arg1512His,Substitution,Missense,VUS,3,N,-,6/25/2012,AW
+17,41226515,G,T,BRCA1,NM_007294,c.4508C>A,p.Ser1503X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41226540,T,A,BRCA1,NM_007294,c.4485-2A>T,r.spl(?),Substitution,Intronic,Pathogenic,1,N,-,6/5/2013,AW
+17,41228504,C,T,BRCA1,NM_007294,c.4484+1G>A,p.?,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+17,41228505,C,A,BRCA1,NM_007294,c.4484G>T,p.Arg1495Met,Substitution,Missense,Pathogenic,1,N,-,8/21/2014,AW
+17,41228604,T,C,BRCA1,NM_007294,c.4385A>G,p.Glu1462Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41228617,G,A,BRCA1,NM_007294,c.4372C>T,p.Gln1458X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41228629,C,T,BRCA1;BRCA1,NM_007294,c.4360G>A,p.Val1454Ile,Substitution,Missense,VUS,3,N,-,4/23/2013,AW
+17,41234420,C,T,BRCA1,NM_007294,c.4357+1G>A,p.?,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+17,41234431,T,C,BRCA1,NM_007294,c.4347A>G,p.=,-,-,VUS,3,N,-,8/21/2014,AW
+17,41234451,G,A,BRCA1,NM_007294,c.4327C>T,p.Arg1443X,Substitution,Nonsense,Pathogenic,1,N,-,6/21/2013,AW
+17,41234460,C,G,BRCA1,NM_007294,c.4318G>C,p.Glu1440Gln,Substitution,Missense,VUS,3,N,-,2/4/2013,AW
+17,41234464,G,A,BRCA1,NM_007294,c.4314C>T,p.(=),Substitution,Silent,Benign,5,N,-,2/3/2012,AW
+17,41234464,G,C,BRCA1,NM_007294,c.4314C>G,p.=,Substitution,Silent,Pathogenic,1,N,-,8/21/2014,AW
+17,41234470,A,G,BRCA1,NM_007294,c.4308T>C,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+17,41234523,C,G,BRCA1,NM_007294,c.4255G>C,p.Glu1419Gln,Substitution,Missense,Predicted Benign,4,N,-,11/6/2012,AW
+17,41234591,T,C,BRCA1,NM_007294,c.4187A>G,p.Gln1396Arg,Substitution,Missense,Predicted Benign,4,N,-,2/23/2012,AW
+17,41242963,G,A,BRCA1,NM_007294,c.4183C>T,p.Gln1385X,Substitution,Nonsense,Pathogenic,1,N,-,2/26/2013,AW
+17,41243019,G,C,BRCA1,NM_007294,c.4127C>G,p.Thr1376Arg,Substitution,Missense,VUS,3,N,-,11/6/2012,AW
+17,41243029,C,A,BRCA1,NM_007294,c.4117G>T,p.Glu1373X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41243458,T,G,BRCA1,NM_007294,c.4090A>C,p.Ile1364Leu,Substitution,Missense,Benign,5,N,-,1/10/2013,AW
+17,41243465,C,T,BRCA1,NM_007294,c.4083G>A,p.Met1361Ile,Substitution,Missense,VUS,3,N,-,4/6/2012,AW
+17,41243477,T,G,BRCA1,NM_007294,c.4071A>C,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41243502,G,A,BRCA1,NM_007294,c.4046C>T,p.Thr1349Met,Substitution,Missense,VUS,3,N,-,2/3/2012,AW
+17,41243509,T,C,BRCA1,NM_007294,c.4039A>G,p.Arg1347Gly,Substitution,Missense,Benign,5,N,-,2/13/2012,AW
+17,41243670,G,A,BRCA1,NM_007294,c.3878C>T,p.Ala1293Val,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41243731,G,A,BRCA1,NM_007294,c.3817C>T,p.Gln1273X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41243765,T,C,BRCA1,NM_007294,c.3783A>G,p.Leu1261Leu,Substitution,Silent,Predicted Benign,4,N,-,8/21/2014,AW
+17,41243800,C,A,BRCA1,NM_007294,c.3748G>T,p.Glu1250X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41243809,C,T,BRCA1,NM_007294,c.3739G>A,p.Val1247Ile,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41243835,G,A,BRCA1,NM_007294,c.3713C>T,p.Pro1238Leu,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41243840,A,C,BRCA1,NM_007294,c.3708T>G,p.Asn1236Lys,Substitution,Missense,VUS,3,N,-,11/14/2012,AW
+17,41243887,C,A,BRCA1,NM_007294,c.3661G>T,p.Glu1221X,Substitution,Nonsense,Pathogenic,1,N,-,12/13/2012,AW
+17,41243908,C,T,BRCA1,NM_007294,c.3640G>A,p.Glu1214Lys,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41243912,T,C,BRCA1,NM_007294,c.3636A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41243941,G,A,BRCA1,NM_007294,c.3607C>T,p.Arg1203X,Substitution,Nonsense,Pathogenic,1,N,-,6/25/2013,AW
+17,41243948,C,A,BRCA1,NM_007294,c.3600G>T,p.Gln1200His,Substitution,Missense,Benign,5,N,-,8/21/2014,AW
+17,41243952,G,A,BRCA1,NM_007294,c.3596C>T,p.Ala1199Val,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41244000,T,C,BRCA1,NM_007294,c.3548A>G,p.Lys1183Arg,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41244007,C,T,BRCA1,NM_007294,c.3541G>A,p.Val1181Ile,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41244094,C,T,BRCA1,NM_007294,c.3454G>A,p.Asp1152Asn,Substitution,Missense,VUS,3,N,-,7/30/2012,AW
+17,41244100,G,A,BRCA1,NM_007294,c.3448C>T,p.Pro1150Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41244115,C,A,BRCA1,NM_007294,c.3433G>T,p.Val1145Phe,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41244130,T,C,BRCA1,NM_007294,c.3418A>G,p.Ser1140Gly,Substitution,Missense,Benign,5,N,-,6/6/2013,AW
+17,41244221,T,G,BRCA1,NM_007294,c.3327A>C,p.Lys1109Asn,Substitution,Missense,VUS,3,N,-,2/3/2012,AW
+17,41244246,C,T,BRCA1,NM_007294,c.3302G>A,p.Ser1101Asn,Substitution,Missense,Benign,5,N,-,4/8/2013,AW
+17,41244284,A,G,BRCA1,NM_007294,c.3264T>C,p.Pro1088Pro,Substitution,Silent,Benign,5,N,-,11/5/2012,AW
+17,41244369,T,G,BRCA1,NM_007294,c.3179A>C,p.Glu1060Ala,Substitution,Missense,Predicted Benign,4,N,-,12/13/2012,AW
+17,41244429,C,T,BRCA1,NM_007294,c.3119G>A,p.Ser1040Asn,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41244435,T,C,BRCA1,NM_007294,c.3113A>G,p.Glu1038Gly,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41244435,T,G,BRCA1,NM_007294,c.3113A>C,p.Glu1038Ala,Substitution,Missense,Predicted Benign,4,N,-,6/29/2012,AW
+17,41244465,C,T,BRCA1,NM_007294,c.3083G>A,p.Arg1028His,Substitution,Missense,Benign,5,N,-,9/25/2012,AW
+17,41244475,T,C,BRCA1,NM_007294,c.3073A>G,p.Lys1025Glu,Substitution,Missense,VUS,3,N,-,7/10/2012,AW
+17,41244511,C,T,BRCA1,NM_007294,c.3037G>A,p.Glu1013Lys,Substitution,Missense,VUS,3,N,-,7/17/2012,AW
+17,41244524,C,T,BRCA1,NM_007294,c.3024G>A,p.Met1008Ile,Substitution,Missense,Benign,5,N,-,9/6/2012,AW
+17,41244543,T,G,BRCA1,NM_007294,c.3005A>C,p.Asn1002Thr,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41244577,T,C,BRCA1,NM_007294,c.2971A>G,p.Asn991Asp,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41244588,T,A,BRCA1,NM_007294,c.2960A>T,p.Asn987Ile,Substitution,Missense,Predicted Benign,4,N,-,12/5/2012,AW
+17,41244614,A,C,BRCA1,NM_007294,c.2934T>G,p.Tyr978X,Substitution,Nonsense,Pathogenic,1,N,-,6/24/2013,AW
+17,41244762,A,G,BRCA1,NM_007294,c.2786T>C,p.Leu929Ser,Substitution,Missense,Benign,5,N,-,6/24/2013,AW
+17,41244775,T,G,BRCA1,NM_007294,c.2773A>C,p.Ile925Leu,Substitution,Missense,Predicted Benign,4,N,-,11/6/2012,AW
+17,41244796,T,C,BRCA1,NM_007294,c.2752A>G,p.Asn918Asp,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41244815,T,C,BRCA1,NM_007294,c.2733A>G,p.Gly911Gly,Substitution,Silent,Benign,5,N,-,9/6/2012,AW
+17,41244826,C,A,BRCA1,NM_007294,c.2722G>T,p.Glu908X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41244832,T,C,BRCA1,NM_007294,c.2716A>G,p.Thr906Ala,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41244836,T,C,BRCA1,NM_007294,c.2712A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41244880,C,T,BRCA1,NM_007294,c.2668G>A,p.Gly890Arg,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41244914,T,C,BRCA1,NM_007294,c.2634A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41244936,G,A,BRCA1,NM_007294,c.2612C>T,p.Pro871Leu,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41244952,G,A,BRCA1,NM_007294,c.2596C>T,p.Arg866Cys,Substitution,Missense,Benign,5,N,-,8/21/2014,AW
+17,41244968,T,C,BRCA1,NM_007294,c.2580A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41244982,A,G,BRCA1,NM_007294,c.2566T>C,p.Tyr856His,Substitution,Missense,Benign,5,N,-,3/11/2013,AW
+17,41245010,T,G,BRCA1,NM_007294,c.2538A>C,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41245027,G,A,BRCA1,NM_007294,c.2521C>T,p.Arg841Trp,Substitution,Missense,Benign,5,N,-,8/7/2012,AW
+17,41245071,G,T,BRCA1,NM_007294,c.2477C>A,p.Thr826Lys,Substitution,Missense,Benign,5,N,-,5/29/2012,AW
+17,41245087,C,G,BRCA1,NM_007294,c.2461G>C,p.Val821Leu,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41245120,T,A,BRCA1,NM_007294,c.2428A>T,p.Asn810Tyr,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41245159,C,A,BRCA1,NM_007294,c.2389G>T,p.Glu797X,Substitution,Nonsense,Predicted Pathogenic,2,N,-,8/21/2014,AW
+17,41245196,C,T,BRCA1,NM_007294,c.2352G>A,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41245210,G,A,BRCA1,NM_007294,c.2338C>T,p.Gln780X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41245218,T,C,BRCA1,NM_007294,c.2330A>G,p.Asp777Gly,Substitution,Missense,Predicted Benign,4,N,-,6/5/2013,AW
+17,41245237,A,G,BRCA1,NM_007294,c.2311T>C,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+17,41245253,C,T,BRCA1,NM_007294,c.2295G>A,p.Glu765Glu,Substitution,Silent,Predicted Benign,4,N,-,6/24/2013,AW
+17,41245316,A,G,BRCA1,NM_007294,c.2232T>C,p.Ala744ala,Substitution,Silent,Benign,5,N,-,11/7/2012,AW
+17,41245319,A,G,BRCA1,NM_007294,c.2229T>C,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+17,41245439,T,C,BRCA1,NM_007294,c.2109A>G,p.=,Substitution,Silent,Benign,5,N,-,11/7/2012,AW
+17,41245465,C,A,BRCA1,NM_007294,c.2083G>T,p.Asp695Tyr,Substitution,Missense,Predicted Benign,4,N,-,7/27/2012,AW
+17,41245466,G,A,BRCA1,NM_007294,c.2082C>T,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+17,41245471,C,T,BRCA1,NM_007294,c.2077G>A,p.=,Substitution,Silent,Benign,5,N,-,6/14/2012,AW
+17,41245474,G,A,BRCA1,NM_007294,c.2074C>T,p.His692Tyr,-,-,VUS,3,N,-,8/21/2014,AW
+17,41245542,A,G,BRCA1,NM_007294,c.2006T>C,p.Met669Thr,Substitution,Missense,VUS,3,N,-,3/6/2012,AW
+17,41245574,C,G,BRCA1,NM_007294,c.1974G>C,p.Met658Ile,Substitution,Missense,Benign,5,N,-,8/16/2012,AW
+17,41245577,T,C,BRCA1,NM_007294,c.1971A>G,p.Gln657Gln,Substitution,Silent,Benign,5,N,-,3/27/2012,AW
+17,41245610,G,A,BRCA1,NM_007294,c.1938C>T,p.=,Substitution,Silent,Benign,5,N,-,6/21/2012,AW
+17,41245637,A,G,BRCA1,NM_007294,c.1911T>C,p.Thr637Thr,Substitution,Silent,Benign,5,N,-,3/30/2012,AW
+17,41245683,G,A,BRCA1,NM_007294,c.1865C>T,p.Ala622Val,Substitution,Missense,VUS,3,N,-,5/21/2012,AW
+17,41245685,A,G,BRCA1,NM_007294,c.1863T>C,p.His621His,Substitution,Silent,Predicted Benign,4,N,-,3/5/2013,AW
+17,41245738,T,C,BRCA1,NM_007294,c.1810A>G,p.Lys604Glu,Substitution,Missense,VUS,3,N,-,1/11/2013,AW
+17,41245773,C,T,BRCA1,NM_007294,c.1775G>A,p.Ser592Asn,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41245804,T,G,BRCA1,NM_007294,c.1744A>C,p.Thr582Pro,Substitution,Missense,Predicted Benign,4,N,-,8/2/2012,AW
+17,41245861,G,A,BRCA1,NM_007294,c.1687C>T,p.Gln563X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41245900,T,G,BRCA1,NM_007294,c.1648A>C,p.Asn550His,Substitution,Missense,Benign,5,N,-,5/22/2013,AW
+17,41245931,C,T,BRCA1,NM_007294,c.1617G>A,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41245984,C,G,BRCA1,NM_007294,c.1564G>C,p.Gly522Arg,Substitution,Missense,VUS,3,N,-,6/5/2013,AW
+17,41245987,C,T,BRCA1,NM_007294,c.1561G>A,p.Ala521Thr,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41246035,T,C,BRCA1,NM_007294,c.1513A>G,p.Ile505Val,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41246061,C,T,BRCA1,NM_007294,c.1487G>A,p.Arg496His,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41246062,G,A,BRCA1,NM_007294,c.1486C>T,p.Arg496Cys,Substitution,Missense,Predicted Benign,4,N,-,3/11/2012,AW
+17,41246077,G,A,BRCA1,NM_007294,c.1471C>T,p.Gln491X,Substitution,Nonsense,Pathogenic,1,N,-,3/11/2012,AW
+17,41246089,C,A,BRCA1,NM_007294,c.1459G>T,p.Ala487Ser,Substitution,Missense,Predicted Benign,4,N,-,1/24/2013,AW
+17,41246092,A,G,BRCA1,NM_007294,c.1456T>C,p.Phe486Leu,Substitution,Missense,Benign,5,N,-,6/25/2012,AW
+17,41246130,T,C,BRCA1,NM_007294,c.1418A>G,p.Asn473Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41246293,C,G,BRCA1,NM_007294,c.1255G>C,p.Val419Leu,Substitution,Missense,VUS,3,N,-,8/3/2012,AW
+17,41246321,T,C,BRCA1,NM_007294,c.1227A>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41246435,A,C,BRCA1,NM_007294,c.1113T>G,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41246481,T,C,BRCA1,NM_007294,c.1067A>G,p.Gln356Arg,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41246483,C,T,BRCA1,NM_007294,c.1065G>A,p.Lys355Lys,Substitution,Silent,Predicted Benign,4,N,-,4/19/2012,AW
+17,41246563,T,A,BRCA1,NM_007294,c.985A>T,p.Asn329Tyr,Addition,Missense,VUS,3,N,-,8/21/2014,AW
+17,41246567,T,C,BRCA1,NM_007294,c.981A>G,p.Thr327Thr,Substitution,Silent,Benign,5,N,-,9/6/2012,AW
+17,41246592,T,C,BRCA1,NM_007294,c.956A>G,p.Asn319Ser,Substitution,Missense,VUS,3,N,-,1/8/2013,AW
+17,41246683,T,G,BRCA1,NM_007294,c.865A>C,p.Asn289His,Substitution,Missense,Benign,5,N,-,6/14/2012,AW
+17,41246737,C,T,BRCA1,NM_007294,c.811G>A,p.Val271Met,Substitution,Missense,Predicted Benign,4,N,-,3/8/2013,AW
+17,41246741,C,T,BRCA1,NM_007294,c.807G>A,p.Leu269Leu,Substitution,Silent,Benign,5,N,-,11/7/2012,AW
+17,41246762,C,T,BRCA1,NM_007294,c.786G>A,p.=,Substitution,Silent,VUS,3,N,-,2/4/2013,AW
+17,41246783,C,T,BRCA1,NM_007294,c.765G>A,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41246812,A,C,BRCA1,NM_007294,c.736T>G,p.Leu246Val,Substitution,Missense,Benign,5,N,-,4/25/2012,AW
+17,41246855,C,T,BRCA1,NM_007294,c.693G>A,p.Thr231Thr,Substitution,Silent,VUS,3,N,-,6/14/2012,AW
+17,41246856,G,A,BRCA1,NM_007294,c.692C>T,p.Thr231Met,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41246857,T,C,BRCA1,NM_007294,c.691A>G,p.Ser231Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41247864,C,T,BRCA1,NM_007294,c.669G>A,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41247902,C,T,BRCA1,NM_007294,c.631G>A,p.Val211Ile,Substitution,Missense,Pathogenic,1,N,-,3/13/2013,AW
+17,41249263,G,A,BRCA1,NM_007294,c.591C>T,p.=,Substitution,Silent,Benign,5,N,-,7/17/2012,AW
+17,41249283,C,T,BRCA1,NM_007294,c.571G>A,p.Val191Ile,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41249284,G,A,BRCA1,NM_007294,c.570C>T,p.=,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41249297,G,T,BRCA1,NM_007294,c.557C>A,p.Ser186Tyr,Substitution,Missense,Benign,5,N,-,8/15/2012,AW
+17,41251803,T,C,BRCA1,NM_007294,c.536A>G,p.Tyr179Cys,Substitution,Missense,Benign,5,N,-,5/22/2013,AW
+17,41251804,A,G,BRCA1,NM_007294,c.535T>C,p.Tyr179His,-,-,VUS,3,N,-,8/21/2014,AW
+17,41251811,C,T,BRCA1,NM_007294,c.528G>A,p.Thr176Thr,Substitution,Silent,Predicted Benign,4,N,-,2/17/2012,AW
+17,41251834,G,A,BRCA1,NM_007294,c.505C>T,p.Gln169X,Substitution,Nonsense,Pathogenic,1,N,-,5/2/2012,AW
+17,41256144,A,G,BRCA1,NM_007294,c.436T>C,p.Ser146Pro,Substitution,Missense,VUS,3,N,-,4/3/2012,AW
+17,41256155,G,T,BRCA1,NM_007294,c.425C>A,p.Pro142His,Substitution,Missense,Predicted Benign,4,N,-,6/5/2013,AW
+17,41256190,G,T,BRCA1,NM_007294,c.390C>A,p.Try130X,Substitution,Nonsense,Pathogenic,1,N,-,8/21/2014,AW
+17,41256268,G,T,BRCA1,NM_007294,c.312C>A,p.Ser104Arg,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41256275,G,C,BRCA1,NM_007294,c.305C>G,p.Ala102Gly,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41256906,G,A,BRCA1,NM_007294,c.280C>T,p.Pro94Ser,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41256963,C,G,BRCA1,NM_007294,c.223G>C,Ala75Pro,Substitution,Missense,Predicted Benign,4,N,-,8/21/2014,AW
+17,41258486,C,A,BRCA1,NM_007294,c.199G>T,p.Asp67Tyr,Substitution,Missense,VUS,3,N,-,8/21/2014,AW
+17,41258504,A,C,BRCA1,NM_007294,c.181T>G,p.Cys61Gly,Substitution,Missense,Pathogenic,1,N,-,6/15/2012,AW
+17,41258531,G,A,BRCA1,NM_007294,c.154C>T,p.Leu52Phe,Substitution,Missense,VUS,3,N,-,4/6/2012,AW
+17,41258552,T,C,BRCA1,NM_007294,c.135-2A>G,-,Substitution,Intronic,Pathogenic,1,N,-,4/5/2013,AW
+17,41267761,C,T,BRCA1,NM_007294,c.116G>A,p.Cys39Tyr,Substitution,Missense,Pathogenic,1,N,-,8/21/2014,AW
+17,41267763,C,T,BRCA1,NM_007294,c.114G>A,p.Lys38Lys,Substitution,Silent,Benign,5,N,-,2/27/2012,AW
+17,41276039,G,A,BRCA1,NM_007294,c.75C>T,p.=,Substitution,Silent,Benign,5,N,-,8/21/2014,AW
+17,41276093,G,A,BRCA1,NM_007294,c.21C>T,p.Arg7Arg,Substitution,Silent,Benign,5,N,-,5/3/2012,AW
+17,41276113,T,C,BRCA1,NM_007294,c.1A>G,p.Met1?,Substitution,Silent,VUS,3,N,-,8/21/2014,AW
+17,41276122,G,C,BRCA1,NM_007294,c.-9C>G,-,Substitution,Untranslated Region (Promoter),VUS,3,N,-,4/20/2013,AW

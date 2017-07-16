@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>NGS Report</title>
+</head>
+<body>
+
+<header>
+	<table>
+		<tr>
+			<td>Sample:</td> 
+			<td>RunDate:</td>
+			<td>Instrument:</td>
+			<td>Flowcell: </td>
+			<td>Experiment:</td>
+			<td>Targetted Regions: </td>
+
+		</tr>	
+		<tr>
+			<td>{{meta_dict['sample_id']}}</td>
+			<td>{{meta_dict['run_date']}}</td>
+			<td>{{meta_dict['instrument_id']}}</td>
+			<td>{{meta_dict['flowcell_id']}}</td>
+			<td>{{meta_dict['experiment_id']}}</td>
+			<td>{{meta_dict['manifest_id']}}</td>
+		</tr>
+		
+	</table>
+	<hr>
+</header>
+
+<h1 class="sidebar">Variants Summary</h1>
+<div class="main_page">
+
+    <h2>Variants To Confirm (Pathogenic, Likely Pathogenic, Unknown Significance) </h2>
+    
+    {% if variant_confirm|length == 0 %}
+    <div class="info">No Variants Detected </div>
+    {% else %}
+    <table>
+	    <tr>
+		<th class="table-span span-1B">Gene</th>
+		<th class="table-span span-1">Chr</th>
+		<th class="table-span span-2">Pos</th>
+		<th class="table-span span-1">Ref</th>
+		<th class="table-span span-1">Alt</th>
+		<th class="table-span span-1">Exon</th>
+		<th class="table-span span-2">cDNA Change</th>
+		<th class="table-span span-2">AA Change</th>
+		<th class="table-span span-1">ExAC</th>
+		<th class="table-span span-1">Zyg</th>
+		<th class="table-span span-1">ALT%</th>
+		<th class="table-span span-1">REF</th>
+		<th class="table-span span-1">ALT</th>
+		<th class="table-span span-3">Database Category</th>
+		<th class="table-span span-2">Reviewed</th>
+	    </tr>
+	    
+	    
+	    {% for variant in variant_confirm %}
+	    <tr>
+		<td>{{variant['Gene.refGene']}}</td>
+		<td>{{variant['Chr']}}</td>
+		<td>{{variant['Start']}}</td>
+		<td>{{variant['Ref']}}</td>
+		<td>{{variant['Alt']}}</td>
+		<td>{{variant['Exon.refGene']}}</td>
+		<td>{{variant['cDNAChange']}}</td>
+		<td>{{variant['AAChange']}}</td>
+		<td>{{variant['ExAC_nontcga_ALL']}}</td>
+		<td>{{variant['Zygosity']}}</td>
+		<td>{{variant['ALT_PCT']}}</td>
+		<td>{{variant['AD.REF']}}</td>
+		<td>{{variant['AD.ALT']}}</td>
+		<td>{{variant['LatestCategory']}}</td>
+		<td>{{variant['LatestDate']}}</td>
+	    </tr>
+	    
+	    {% endfor %}
+     </table>
+    {%endif %}
+
+    <h2>Variants Not Assessed </h2>
+
+    {% if variant_not_assessed|length == 0 %}
+    <div class="info">No Variants Detected </div>
+    {% else %}
+    
+   <table>
+	    <tr>
+		<th class="table-span span-1B">Gene</th>
+		<th class="table-span span-1">Chr</th>
+		<th class="table-span span-2">Pos</th>
+		<th class="table-span span-1">Ref</th>
+		<th class="table-span span-1">Alt</th>
+		<th class="table-span span-1">Exon</th>
+		<th class="table-span span-2">cDNA Change</th>
+		<th class="table-span span-2">AA Change</th>
+		<th class="table-span span-1">ExAC</th>
+		<th class="table-span span-1">Zyg</th>
+		<th class="table-span span-1">ALT%</th>
+		<th class="table-span span-1">REF</th>
+		<th class="table-span span-1">ALT</th>
+		<th class="table-span span-3">Database Category</th>
+		<th class="table-span span-2">Reviewed</th>
+	    </tr>
+	    
+	    
+	    {% for variant in variant_not_assessed %}
+	    <tr>
+		<td>{{variant['Gene.refGene']}}</td>
+		<td>{{variant['Chr']}}</td>
+		<td>{{variant['Start']}}</td>
+		<td>{{variant['Ref']}}</td>
+		<td>{{variant['Alt']}}</td>
+		<td>{{variant['Exon.refGene']}}</td>
+		<td>{{variant['cDNAChange']}}</td>
+		<td>{{variant['AAChange']}}</td>
+		<td>{{variant['ExAC_nontcga_ALL']}}</td>
+		<td>{{variant['Zygosity']}}</td>
+		<td>{{variant['ALT_PCT']}}</td>
+		<td>{{variant['AD.REF']}}</td>
+		<td>{{variant['AD.ALT']}}</td>
+		<td>{{variant['LatestCategory']}}</td>
+		<td>{{variant['LatestDate']}}</td>
+	    </tr>
+	    
+	    {% endfor %}
+     </table>
+    {% endif %}
+
+    <h2>Variants Predicted Benign </h2>
+     {% if variant_predicted_benign|length == 0 %}
+    <div class="info">No Variants Detected </div>
+     {% else %}
+   <table>
+	    <tr>
+		<th class="table-span span-1B">Gene</th>
+		<th class="table-span span-1">Chr</th>
+		<th class="table-span span-2">Pos</th>
+		<th class="table-span span-1">Ref</th>
+		<th class="table-span span-1">Alt</th>
+		<th class="table-span span-1">Exon</th>
+		<th class="table-span span-2">cDNA Change</th>
+		<th class="table-span span-2">AA Change</th>
+		<th class="table-span span-1">ExAC</th>
+		<th class="table-span span-1">Zyg</th>
+		<th class="table-span span-1">ALT%</th>
+		<th class="table-span span-1">REF</th>
+		<th class="table-span span-1">ALT</th>
+		<th class="table-span span-3">Database Category</th>
+		<th class="table-span span-2">Reviewed</th>
+	    </tr>
+	    
+	    
+	    {% for variant in variant_predicted_benign %}
+	    <tr>
+		<td>{{variant['Gene.refGene']}}</td>
+		<td>{{variant['Chr']}}</td>
+		<td>{{variant['Start']}}</td>
+		<td>{{variant['Ref']}}</td>
+		<td>{{variant['Alt']}}</td>
+		<td>{{variant['Exon.refGene']}}</td>
+		<td>{{variant['cDNAChange']}}</td>
+		<td>{{variant['AAChange']}}</td>
+		<td>{{variant['ExAC_nontcga_ALL']}}</td>
+		<td>{{variant['Zygosity']}}</td>
+		<td>{{variant['ALT_PCT']}}</td>
+		<td>{{variant['AD.REF']}}</td>
+		<td>{{variant['AD.ALT']}}</td>
+		<td>{{variant['LatestCategory']}}</td>
+		<td>{{variant['LatestDate']}}</td>
+	    </tr>
+	    
+	    {% endfor %}
+     </table>
+    {% endif %}
+    
+    <h2>Variants Benign By Population Frequency</h2>
+     {% if variant_pop_benign|length == 0 %}
+    <div class="info">No Variants Detected </div>
+     {% else %}
+   <table>
+	    <tr>
+		<th class="table-span span-1B">Gene</th>
+		<th class="table-span span-1">Chr</th>
+		<th class="table-span span-2">Pos</th>
+		<th class="table-span span-1">Ref</th>
+		<th class="table-span span-1">Alt</th>
+		<th class="table-span span-1">Exon</th>
+		<th class="table-span span-2">cDNA Change</th>
+		<th class="table-span span-2">AA Change</th>
+		<th class="table-span span-1">ExAC</th>
+		<th class="table-span span-1">Zyg</th>
+		<th class="table-span span-1">ALT%</th>
+		<th class="table-span span-1">REF</th>
+		<th class="table-span span-1">ALT</th>
+		<th class="table-span span-3">Database Category</th>
+		<th class="table-span span-2">Reviewed</th>
+	    </tr>
+	
+	    {% for variant in variant_pop_benign %}
+	    <tr>
+		<td>{{variant['Gene.refGene']}}</td>
+		<td>{{variant['Chr']}}</td>
+		<td>{{variant['Start']}}</td>
+		<td>{{variant['Ref']}}</td>
+		<td>{{variant['Alt']}}</td>
+		<td>{{variant['Exon.refGene']}}</td>
+		<td>{{variant['cDNAChange']}}</td>
+		<td>{{variant['AAChange']}}</td>
+		<td>{{variant['ExAC_nontcga_ALL']}}</td>
+		<td>{{variant['Zygosity']}}</td>
+		<td>{{variant['ALT_PCT']}}</td>
+		<td>{{variant['AD.REF']}}</td>
+		<td>{{variant['AD.ALT']}}</td>
+		<td>{{variant['LatestCategory']}}</td>
+		<td>{{variant['LatestDate']}}</td>
+	    </tr>
+	    {% endfor %}
+     </table>
+     {% endif %}
+     
+    <h2>Variants Benign By Variant Assessment </h2>
+     {% if variant_benign|length == 0 %}
+    <div class="info">No Variants Detected </div>
+     {% else %}
+   <table>
+	    <tr>
+		<th class="table-span span-1B">Gene</th>
+		<th class="table-span span-1">Chr</th>
+		<th class="table-span span-2">Pos</th>
+		<th class="table-span span-1">Ref</th>
+		<th class="table-span span-1">Alt</th>
+		<th class="table-span span-1">Exon</th>
+		<th class="table-span span-2">cDNA Change</th>
+		<th class="table-span span-2">AA Change</th>
+		<th class="table-span span-1">ExAC</th>
+		<th class="table-span span-1">Zyg</th>
+		<th class="table-span span-1">ALT%</th>
+		<th class="table-span span-1">REF</th>
+		<th class="table-span span-1">ALT</th>
+		<th class="table-span span-3">Database Category</th>
+		<th class="table-span span-2">Reviewed</th>
+	    </tr>
+	    
+	    {% for variant in variant_benign %}
+	    <tr>
+		<td>{{variant['Gene.refGene']}}</td>
+		<td>{{variant['Chr']}}</td>
+		<td>{{variant['Start']}}</td>
+		<td>{{variant['Ref']}}</td>
+		<td>{{variant['Alt']}}</td>
+		<td>{{variant['Exon.refGene']}}</td>
+		<td>{{variant['cDNAChange']}}</td>
+		<td>{{variant['AAChange']}}</td>
+		<td>{{variant['ExAC_nontcga_ALL']}}</td>
+		<td>{{variant['Zygosity']}}</td>
+		<td>{{variant['ALT_PCT']}}</td>
+		<td>{{variant['AD.REF']}}</td>
+		<td>{{variant['AD.ALT']}}</td>
+		<td>{{variant['LatestCategory']}}</td>
+		<td>{{variant['LatestDate']}}</td>
+	    </tr>
+	    {% endfor %}
+     </table>
+     {% endif %}
+</div>
+
+<p style="page-break-before:always" ></p>
+	
+<h1 class="sidebar">CNV Summary</h1>
+<div class="main_page">
+
+    <h2>CNVs To Confirm</h2>
+     {% if cnv_dict|length == 0 %}
+    <div class="info">No CNVs Detected </div>
+    {% else %}    
+    <table>
+	    <tr>
+		<th class="table-span span-1">Chr</th>
+		<th class="table-span span-2">Start</th>
+		<th class="table-span span-2">End</th>
+		<th class="table-span span-2">Type</th>
+		<th class="table-span span-2">Region</th>
+		<th class="table-span span-1">Read Ratio</th>
+		<th class="table-span span-4">Evidence</th>
+	     </tr>
+	    {% for cnv in cnv_dict %}
+	    <tr>
+		<td>{{cnv_dict[cnv]['chr']}}</td>
+		<td>{{cnv_dict[cnv]['start']}}</td>
+		<td>{{cnv_dict[cnv]['end']}}</td>
+		<td>{{cnv_dict[cnv]['cnv_type']}}</td>
+		<td>{{cnv_dict[cnv]['region']}}</td>
+		<td>{{cnv_dict[cnv]['read_ratio']}}</td>
+		<td>{{cnv_dict[cnv]['evidence']}}</td>
+	   </tr>
+	    
+	    {% endfor %}
+     </table>
+    {%endif %}
+
+</div>
+<p style="page-break-before:always" ></p>
+	
+<h1 class="sidebar">Exons QC</h1>
+<div class="main_page">
+      
+	<h2>Exons To Repeat </h2>
+	<div class = "notice"><b>QC Failed:</b> Min Depth &lt; {{meta_dict['coverage']}} with &lt; Q{{meta_dict['qscore']}} and PCR duplicates removed)</div>
+	
+    <div>
+     {% if failed_exons|length == 0 %}
+    <div class="success">No Failed Exons </div>
+     {% else %}
+	    <table>
+		    <tr>
+			<th>Gene</th>
+			<th>Exon</th>
+			<th>Chr</th>
+			<th>Start</th>
+			<th>End</th>
+			<th>Min Depth</th>
+			<th>% &gt; {{meta_dict['coverage']}}</th>
+			<th>Bases &gt; {{meta_dict['coverage']}}</th>
+			<th>Num Bases</th>
+
+		    </tr>
+		    {% for fail_ex in failed_exons %}
+		    <tr>
+			<td>{{ fail_ex.1 }}</td>
+			<td>{{ fail_ex.3 }}</td>
+			<td>{{ fail_ex.4 }}</td>
+			<td>{{ fail_ex.5 }}</td>
+			<td>{{ fail_ex.6 }}</td>
+			<td>{{ fail_ex.7 }}</td>
+			<td>{{ fail_ex.8 }}</td>
+			<td>{{ fail_ex.9 }}</td>
+			<td>{{ fail_ex.10 }}</td>
+		    </tr>
+		    {% endfor %}
+	    </table>
+    {% endif %}
+    </div>
+    
+    <div class='clear'>
+    <h2>Exons Coverage Summary</h2>
+    </div>
+    <div class='span-8'>
+ 
+        <table>
+            <tr>
+                <th>Gene:</th>
+                <th>Exons Passed:</th>
+                <th>Exons Failed:</th>
+                <th>Exons Total:</th>
+		<th>Exons > 20x :</th>
+	       <th>Exons > 50x:</th>
+	       <th>Exons > 100x:</th>
+            </tr>
+            {% for gene, exons_summary in genes_exons_summary.items() %}
+            <tr>
+	       {% if  exons_summary['exons_failed'] == 0 %} 
+                <td class="success">{{ gene }}</td>
+		<td class="success">{{ exons_summary['exons_passed'] }}</td>
+		<td class="success">{{ exons_summary['exons_failed'] }}</td>
+		<td class="">{{ exons_summary['exons_total'] }}</td>
+	      <td class="">{{ exons_summary['exons_min_gt_20'] }}</td>
+                <td class="">{{ exons_summary['exons_min_gt_50'] }}</td>
+                <td class="">{{ exons_summary['exons_min_gt_100'] }}</td>
+	       {% else %}
+	       <td class="error">{{ gene }}</td>
+                <td class="error">{{ exons_summary['exons_passed'] }}</td>
+		<td class="error">{{ exons_summary['exons_failed'] }}</td>
+		<td class="">{{ exons_summary['exons_total'] }}</td>
+	      <td class="">{{ exons_summary['exons_min_gt_20'] }}</td>
+                <td class="">{{ exons_summary['exons_min_gt_50'] }}</td>
+                <td class="">{{ exons_summary['exons_min_gt_100'] }}</td>
+	        {% endif %}
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</div>
+
+<p style="page-break-before:always" ></p>
+
+<h1 class="sidebar">Variants QC</h1>
+<div class="main_page">
+    <h2>Variants Filtered - Failed QC </h2>
+</div>
+
+<p style="page-break-before:always" ></p>
+
+<h1 class="sidebar">Sequencing QC</h1>
+<div class="main_page">
+	    <div class='span-8'>
+	    <h2>Run Metrics</h2>
+		<table>
+			<tr>
+				<td>Yield Total (G):</td>
+				<td>{{ qc_dict['yield_total'] }}</td>
+			</tr>
+			<tr>
+				<td>Reads PF (M):</td>
+				<td>{{ qc_dict['reads_pf'] }}</td>
+			</tr>
+			<tr>
+				<td>Cluster Den. (k/mm2):</td>
+				<td>{{ qc_dict['cluster_density'] }}</td>
+			</tr>
+			<tr>
+				<td>% Cluster PF:</td>
+				<td>{{ qc_dict['cluster_pf'] }}</td>
+			</tr>
+			<tr>
+				<td>% >= Q30:</td>
+				<td>{{ qc_dict['pct_gt_q30'] }}</td>
+			</tr>
+			<tr>
+				<td>Experiment:</td>
+				<td>{{ meta_dict['experiment_id'] }}</td>
+			</tr>
+			<tr>
+				<td>Investigator:</td>
+				<td>{{ meta_dict['investigator'] }}</td>
+			</tr>
+					<tr>
+				<td>Index i5:</td>
+				<td>{{ qc_dict['indexi5'] }}</td>
+			</tr>
+					<tr>
+				<td>Index i7:</td>
+				<td>{{ qc_dict['indexi7'] }}</td>
+			</tr>
+		</table>	
+	    </div>
+	    
+	    <div class='span-8 push-1'>
+	    <h2>Analysis Metrics</h2>
+		<table>
+			<tr>
+				<td>Software Version:</td>
+				<td>{{ meta_dict['software_version'] }}</td>
+			</tr>
+			<tr>
+				<td>Targetted Regions:</td>
+				<td>{{ meta_dict['manifest_id']}}</td>
+			</tr>
+			<tr>
+				<td>Genome:</td>
+				<td>{{ meta_dict['genome'] }}</td>
+			</tr>
+			<tr>
+				<td>Report Date:</td>
+				<td>{{ meta_dict['report_date']}}</td>
+			</tr>
+			<tr>
+				<td>Base Quality Cutoff:</td>
+				<td>{{ meta_dict['qscore']}}</td>
+			</tr>
+			<tr>
+				<td>Coverage Depth Cutoff:</td>
+				<td>{{ meta_dict['coverage'] }}</td>
+			</tr>
+		</table>	
+		<table>
+			<tr>
+				<td>Variants Called:</td>
+				<td>{{ meta_dict['variants_called'] }}</td>
+			</tr>
+			<tr>
+				<td>Variants Reported:</td>
+				<td>{{ meta_dict['variants_reported'] }}</td>
+			</tr>
+			<tr>
+				<td>Variants Failed:</td>
+				<td>{{ meta_dict['variants_failed'] }}</td>
+			</tr>
+		</table>
+	    </div>
+	</div>
+
+<p style="page-break-before:always" ></p>
+
+<h2 class="sidebar">Base Coverage Plot</h2>
+<div class="main_page">
+	<img src = "file://{{base_plot}}">
+</div>
+
+<p style="page-break-before:always" ></p>
+
+<h2 class="sidebar">Allelic Frequency Plot</h2>
+<div class="main_page">
+	<img src = "file://{{alt_plot}}">
+</div>
+
+<p style="page-break-before:always" ></p>
+<h2 class="sidebar">Gene Coverage Plots</h2>
+
+{% set counter = 1 %}
+
+{% for boxplot in boxplots_list %}
+
+{% if counter % 4 == 1 %}
+	<div class="main_page">
+		<img class="quarter left" src = "file://{{boxplot}}">	  
+	  {% elif counter % 4 ==2 %}
+		<img class="quarter right" src = "file://{{boxplot}}">
+		<p class="clear">
+	  {% elif counter % 4 == 3 %}
+		<img class="quarter left" src = "file://{{boxplot}}">
+	  {% elif counter % 4 == 0 %}
+		<img class="quarter right" src = "file://{{boxplot}}">
+	</div>
+          {% endif %}
+
+	  {% set counter = counter + 1 %}
+
+{% endfor %}
+
+<p class="clear"></p>
+<p style="page-break-before:always" ></p>
+
+<h2 class="sidebar">ExomeDepth CNV Plots</h2>
+
+{% set counter = 1 %}
+
+{% for cnvplot in cnv_plots_list %}
+	{% if counter % 4 == 1 %}
+	<div class="main_page">
+		<img class="quarter left" src = "file://{{cnvplot}}">	  
+	  {% elif counter % 4 ==2 %}
+		<img class="quarter right" src = "file://{{cnvplot}}">
+		<p class="clear">
+	  {% elif counter % 4 == 3 %}
+		<img class="quarter left" src = "file://{{cnvplot}}">
+	  {% elif counter % 4 == 0 %}
+		<img class="quarter right" src = "file://{{cnvplot}}">
+	</div>
+          {% endif %}
+	  
+	  {% set counter = counter + 1 %}
+
+{% endfor %}
+
+</body>
+</html>

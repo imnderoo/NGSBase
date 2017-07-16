@@ -1,0 +1,2 @@
+cygwinRoot,miseqPipeFolder,analysisOutFolder,coverageThreshold,qscoreThreshold,samtoolsPath,bedtoolsPath,avPath,jasperPath,jasperTemplate
+C:/cygwin64,/home/miseq/miseq_pipe,/home/miseq/NGS_analysis,20,20,/home/miseq/miseq_pipe/software/samtools-0.1.19/bin,/home/miseq/miseq_pipe/software/bedtools-2.17.0/bin,/home/miseq/miseq_pipe/software/annovar,/home/miseq/miseq_pipe/software/jasperstarter/bin,/home/miseq/miseq_pipe/resources/report_template
