@@ -112,8 +112,8 @@ def main():
 	run_picard = 1
 	run_gatk = 1
 	run_annovar = 1
-	run_cnv = 1
-	run_manta = 1
+	run_cnv = 0
+	run_manta = 0
 
 	# START OF VCF CALLING SCRIPT
 	start_time = time.asctime( time.localtime(time.time()) )
